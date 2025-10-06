@@ -44,13 +44,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Cherag-16&show_icons=true&theme=tokyonight" />
+  <!-- <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Cherag-16&show_icons=true&theme=tokyonight" /> -->
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cherag-16&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cherag-16&theme=tokyo-night" />
-</p>
+</p> -->
 ---
 
 ### 🌐 Connect with Me
