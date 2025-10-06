@@ -1,6 +1,6 @@
 <!-- 👋 Hi there -->
 <h1 align="center">Hi 👋, I'm Cherag Saxena</h1>
-<h3 align="center">🚀 Passionate MERN Full-Stack Developer & Software Engineer</h3>
+<h3 align="center">  MERN Full-Stack Developer & Software Engineer</h3>
 <h3 align="center">💻 Passionate about building scalable web apps and learning cutting-edge tech 🚀</h3>
 
 
