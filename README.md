@@ -51,7 +51,6 @@
 <p align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cherag-16&theme=tokyo-night" />
 </p>
-
 ---
 
 ### 🌐 Connect with Me
@@ -66,13 +65,10 @@
 
 ### 💬 Quote I Believe In
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-> 🌟 *"Code is like art — the more you refine it, the better it communicates."*  
-> 🧩 *"Keep building, stay curious, and consistency will take you farther than motivation."*
 
 ---
 
-⭐️ *“Keep learning, keep building — consistency beats talent.”*
-
+⭐️ *"Keep building, stay curious, and consistency will take you farther than motivation."*
 
 ---
 
