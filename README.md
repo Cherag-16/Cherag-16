@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,postman,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 | **TaskFlow** | Smart productivity dashboard for teams | React + Node + MongoDB |
 | **AI Resume Builder** | Generates tailored resumes using AI | Next.js + Express + OpenAI |
 
-🔗 Explore more projects in my [**GitHub Repos →**](https://github.com/cheragsaxena?tab=repositories)
+🔗 Explore more projects in my [**GitHub Repos →**](https://github.com/Cherag-16?tab=repositories)
 
 ---
 
@@ -43,11 +43,11 @@
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=cheragsaxena&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=cheragsaxena&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cherag-16&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cheragsaxena&theme=react-dark" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cherag-16&theme=react-dark" />
 </p>
 
 ---
@@ -55,16 +55,17 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cheragsaxena" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:cheragsaxena@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://cheragsaxena.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.linkedin.com/in/cherag-saxena-36415a2b8/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:cheragsaxena16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://Cherag-16.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <!-- <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
 </p>
 
 ---
 
 ### 💬 Quote I Believe In
 
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 > 🌟 *"Code is like art — the more you refine it, the better it communicates."*  
 > 🧩 *"Keep building, stay curious, and consistency will take you farther than motivation."*
 
