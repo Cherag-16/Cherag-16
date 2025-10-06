@@ -1,53 +1,54 @@
 <!-- 👋 Hi there -->
-<h1 align="center">Hi 👋, I'm Cherag Saxena</h1>
-<h3 align="center">🚀 Passionate MERN Full-Stack Developer & Software Engineer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Cherag+Saxena;MERN+Full+Stack+Developer;Software+Engineer;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">💻 Passionate about building scalable web apps and learning cutting-edge tech 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cheragsaxena&label=Profile%20views&color=0e75b6&style=flat" alt="cheragsaxena" />
+  <img src="https://komarev.com/ghpvc/?username=cheragsaxena&label=Profile%20views&color=36BCF7&style=flat-square" alt="cheragsaxena" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🌱 I’m currently focusing on **Next.js, TypeScript, and Cloud Deployment**
-- 💡 Exploring **AI Integrations** & **Modern Web Architecture**
-- 🧩 Skilled in building **responsive, scalable full-stack web apps**
-- 🎯 Goal: To craft seamless digital experiences that blend **performance + design**
-- ⚡ Fun fact: I debug faster when coffee is involved ☕
+- 💼 MERN Full-Stack Developer & Software Engineer  
+- 🌱 Currently exploring **Next.js**, **TypeScript**, and **Cloud DevOps**  
+- 💡 Interested in **AI integrations**, **microservices**, and **UI/UX-driven design**  
+- ⚡ Fun Fact: I believe *“Clean code is the best design.”*  
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,postman,linux,docker" />
 </p>
 
 ---
 
 ### 💼 Featured Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| **DevLinker** | Developer networking platform with live chat & profiles | MERN + Socket.io |
-| **TaskFlow** | Productivity & project tracking dashboard | React + Node + MongoDB |
-| **AI Resume Builder** | Smart resume generator using OpenAI APIs | Next.js + Express |
+| 🚀 Project | 🧩 Description | ⚙️ Tech Stack |
+|-------------|----------------|----------------|
+| **DevLinker** | Developer social platform with live chat & user profiles | MERN + Socket.io |
+| **TaskFlow** | Smart productivity dashboard for teams | React + Node + MongoDB |
+| **AI Resume Builder** | Generates tailored resumes using AI | Next.js + Express + OpenAI |
 
-➡️ Check out more on my [**GitHub Repositories**](https://github.com/Cherag-16?tab=repositories)
+🔗 Explore more projects in my [**GitHub Repos →**](https://github.com/cheragsaxena?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Cherag-16&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cherag-16&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=cheragsaxena&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=cheragsaxena&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cherag-16&theme=tokyo-night" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cheragsaxena&theme=react-dark" />
 </p>
 
 ---
@@ -55,16 +56,21 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/cherag-saxena-36415a2b8" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:cheragsaxena16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://Cherag-16.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/cheragsaxena" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:cheragsaxena@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://cheragsaxena.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
 
 ### 💬 Quote I Believe In
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+> 🌟 *"Code is like art — the more you refine it, the better it communicates."*  
+> 🧩 *"Keep building, stay curious, and consistency will take you farther than motivation."*
 
 ---
 
-⭐️ *“Keep learning, keep building — consistency beats talent.”*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer" />
+</p>
