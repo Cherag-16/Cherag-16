@@ -1,9 +1,10 @@
 <!-- 👋 Hi there -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&lines=Hey+there!+I'm+Cherag+Saxena;MERN+Full+Stack+Developer;Software+Engineer;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=400&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=Hey+there!+I'm+Cherag+Saxena;MERN+Full+Stack+Developer;Software+Engineer;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💻 Passionate about building scalable web apps and learning cutting-edge tech 🚀</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cheragsaxena&label=Profile%20views&color=36BCF7&style=flat-square" alt="cheragsaxena" />
