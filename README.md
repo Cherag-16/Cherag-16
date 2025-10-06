@@ -1,8 +1,11 @@
 <!-- 👋 Hi there -->
-<h1 align="center">Hi 👋, I'm Cherag Saxena</h1>
-<h3 align="center"> MERN Full-Stack Developer & Software Engineer</h3>
-<h3 align="center">💻 Passionate about building scalable web apps and learning cutting-edge tech 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=400&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=90&lines=Hey+there!+I'm+Cherag+Saxena;MERN+Full+Stack+Developer;Software+Engineer;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Cherag Saxena</h1>
+<h3 align="center">MERN Full-Stack Developer & Software Engineer</h3>
+<h3 align="center">💻 Passionate about building scalable web apps and learning cutting-edge tech 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cherag-16&label=Profile%20views&color=0e75b6&style=flat" alt="cheragsaxena" />
@@ -18,12 +21,13 @@
 - 🎯 Goal: To craft seamless digital experiences that blend **performance + design**
 - ⚡ Fun fact: I debug faster when coffee is involved ☕
 
+🌐 Check out my portfolio: [cherag-16.github.io](https://cherag-16.github.io)
+
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
@@ -65,14 +69,12 @@
 ---
 
 ### 💬 Quote I Believe In
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-> 🌟 *"Code is like art — the more you refine it, the better it communicates."*  
-> 🧩 *"Keep building, stay curious, and consistency will take you farther than motivation."*
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> 💡 *Keep building, stay curious — consistency always beats talent.*
 
 ---
 
 ⭐️ *“Keep learning, keep building — consistency beats talent.”*
-
 
 ---
 
