@@ -22,7 +22,7 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -35,19 +35,19 @@
 | **TaskFlow** | Productivity & project tracking dashboard | React + Node + MongoDB |
 | **AI Resume Builder** | Smart resume generator using OpenAI APIs | Next.js + Express |
 
-➡️ Check out more on my [**GitHub Repositories**](https://github.com/cheragsaxena?tab=repositories)
+➡️ Check out more on my [**GitHub Repositories**](https://github.com/Cherag-16?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=cheragsaxena&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=cheragsaxena&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Cherag-16&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cherag-16&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=cheragsaxena&theme=tokyo-night" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cherag-16&theme=tokyo-night" />
 </p>
 
 ---
@@ -55,9 +55,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cheragsaxena" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:cheragsaxena@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://cheragsaxena.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://in.linkedin.com/in/cherag-saxena-36415a2b8" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:cheragsaxena16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://Cherag-16.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
