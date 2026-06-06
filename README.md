@@ -44,7 +44,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Cherag-16&show_icons=true&theme=tokyonight" />
+  <!-- <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Cherag-16&show_icons=true&theme=tokyonight" /> -->
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cherag-16&theme=tokyonight" />
 </p>
 
