@@ -58,7 +58,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cherag-saxena-36415a2b8/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:cheragsaxena16@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://Cherag-16.github.io" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
